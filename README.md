@@ -1,2 +1,2 @@
 # NASA_bearing-project
-solution to NASA bearing project dataset through unsupervised learning clustering methods applied to spectral features description of time series 
+Proof of concept for the solution of NASA bearing anomaly detection dataset through unsupervised learning clustering methods applied to spectral features description of time series and Riemmanian integral of spectral approximated function 
